@@ -1,0 +1,2 @@
+# spec
+Formal game specs.
